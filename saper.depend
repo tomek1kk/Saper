@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1518646485 source:c:\users\tomek1kk\desktop\programowanie\sdl projekty\saper\main.cpp
+	"Button.h"
+
+1518644485 c:\users\tomek1kk\desktop\programowanie\sdl projekty\saper\include\pole.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<time.h>
+	<SDL_ttf.h>
+	<sstream>
+
+1518644485 source:c:\users\tomek1kk\desktop\programowanie\sdl projekty\saper\src\pole.cpp
+	"Pole.h"
+
+1518621248 c:\users\tomek1kk\desktop\programowanie\sdl projekty\saper\include\button.h
+	"Pole.h"
+
+1518621197 source:c:\users\tomek1kk\desktop\programowanie\sdl projekty\saper\src\button.cpp
+	"Button.h"
+
+1518646485 source:c:\users\tomasz\desktop\programowanie\sdl projekty\saper\main.cpp
+	"Button.h"
+
+1518621248 c:\users\tomasz\desktop\programowanie\sdl projekty\saper\include\button.h
+	"Pole.h"
+
+1518644485 c:\users\tomasz\desktop\programowanie\sdl projekty\saper\include\pole.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<time.h>
+	<SDL_ttf.h>
+	<sstream>
+
+1518621197 source:c:\users\tomasz\desktop\programowanie\sdl projekty\saper\src\button.cpp
+	"Button.h"
+
+1518644485 source:c:\users\tomasz\desktop\programowanie\sdl projekty\saper\src\pole.cpp
+	"Pole.h"
+
